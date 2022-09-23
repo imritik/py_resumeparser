@@ -75,7 +75,7 @@ plainbox==0.25
 pocketsphinx==0.1.3
 preshed==3.0.2
 progressbar==2.3
-protobuf==3.7.1
+protobuf==3.18.3
 pyasn1==0.4.2
 pycairo==1.16.2
 pycrypto==2.6.1
